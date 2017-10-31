@@ -1,6 +1,13 @@
 My Story
 By: Aaron Perley and the Students of 98-174 F17
 
+Table of Contents
+-----------------
+Chapter 1
+Chapter 2
+Chapter 3
+Epilogue
+
 Chapter 1
 ---------
 Once upon a time, a squirrel named Nibbles lived alone in a vast forest.
@@ -18,7 +25,6 @@ into his own reflection. Sadly, he approached his reflection and stroked the
 glass lightly with his paw. "You are beautiful and worthy of love," he whispered.
 "Thanks, Nibbles," replied the mirror.
 
-Chapter 3
+Epilogue
 ---------
-Epilogue: blah blah
-To be continued...
+Nibbles signed up for 98-174 and learned how to use git super well!
